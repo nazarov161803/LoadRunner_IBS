@@ -1,0 +1,47 @@
+[
+    {
+        "transactionName": "open_web_tours",
+        "rawStartTime": 1600855423847,
+        "rawEndTime": 1600855424100
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1600855424102,
+        "rawEndTime": 1600855424444
+    },
+    {
+        "transactionName": "find_flights",
+        "rawStartTime": 1600855424446,
+        "rawEndTime": 1600855424710
+    },
+    {
+        "transactionName": "fill_fields_about_flight",
+        "rawStartTime": 1600855424712,
+        "rawEndTime": 1600855424923
+    },
+    {
+        "transactionName": "select_flight",
+        "rawStartTime": 1600855424927,
+        "rawEndTime": 1600855425068
+    },
+    {
+        "transactionName": "fill_payment_details",
+        "rawStartTime": 1600855425070,
+        "rawEndTime": 1600855425275
+    },
+    {
+        "transactionName": "open_itinerary",
+        "rawStartTime": 1600855425277,
+        "rawEndTime": 1600855425766
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1600855425769,
+        "rawEndTime": 1600855426017
+    },
+    {
+        "transactionName": "UC_3_Buy_Ticket_And_View_Itinerary",
+        "rawStartTime": 1600855423845,
+        "rawEndTime": 1600855426019
+    }
+]

@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Wed, 23 Sep 2020 10:03:48 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&webtoursuser7&address2&perm7&username&webtoursuser7&hash&119&lastName&webtoursuser7%0A&address1&lenina7&creditCard&&expDate&%0A; path=/
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

@@ -1,0 +1,16 @@
+POST /cgi-bin/reservations.pl HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: http://localhost:1080/cgi-bin/reservations.pl
+Origin: http://localhost:1080
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Dest: frame
+Sec-Fetch-Mode: navigate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1600856505; MTUserInfo=firstName&webtoursuser1&address2&perm&username&webtoursuser1&hash&113&lastName&webtoursuser1%0A&address1&lenina&creditCard&&expDate&%0A
+Content-Length: 372
+

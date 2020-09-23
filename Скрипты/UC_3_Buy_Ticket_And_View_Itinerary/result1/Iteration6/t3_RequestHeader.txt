@@ -1,0 +1,14 @@
+GET /cgi-bin/welcome.pl?page=search HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Dest: frame
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1600855426; MTUserInfo=firstName&webtoursuser6&address2&perm6&username&webtoursuser6&hash&118&lastName&webtoursuser6%0A&address1&lenina6&creditCard&&expDate&%0A
+

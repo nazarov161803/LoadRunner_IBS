@@ -1,0 +1,2 @@
+"userSession=129676.510085055zzHAcDfptiHftAAcVptVcQcf&username=webtoursuser1&password=Sz975301&"
+"login.x=74&login.y=13&JSFormSubmit=off"

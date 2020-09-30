@@ -1,0 +1,27 @@
+
+Имя_службы: telegraf 
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+
+Имя_службы: influxdb 
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+
+Имя_службы: grafana 
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
